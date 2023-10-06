@@ -1,5 +1,9 @@
-circle {
-  fill: red;
+rect {
+    fill: #6e40aa;
+    x: 10;
+    y: 10;
+    width: 150px;
+    height: 150px;
 }
 
 /* PRESENTATIONAL STYLES */
@@ -12,9 +16,4 @@ body {
 
 svg {
   width: 200px;
-}
-
-p{
-    font-stretch:ultra-expanded;
-    
 }
