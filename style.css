@@ -1,0 +1,20 @@
+circle {
+  fill: red;
+}
+
+/* PRESENTATIONAL STYLES */
+body {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+svg {
+  width: 200px;
+}
+
+p{
+    font-stretch:ultra-expanded;
+    
+}
